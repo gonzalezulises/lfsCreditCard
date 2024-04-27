@@ -50,16 +50,16 @@ Esta característica permite concentrarse en la exploración y modelización de 
 
 2. **Preguntas e Hipótesis**:
 Preguntas de análisis:
-¿Cuáles son las características comunes de las transacciones fraudulentas? (E.g., monto de la transacción, ubicación del comerciante, categoría de la transacción). (Para esta primera entrega voy a trabajar esta)
-¿Existen diferencias significativas en el comportamiento de compra entre géneros?
-¿Cómo varían las transacciones fraudulentas a lo largo del tiempo? (E.g., patrones diarios, mensuales o estacionales).
-¿Hay correlación entre la ubicación del comerciante y la frecuencia de transacciones fraudulentas?
-¿Cómo afecta la población de la ciudad al volumen y tipo de transacciones?
+- ¿Cuáles son las características comunes de las transacciones fraudulentas? (E.g., monto de la transacción, ubicación del comerciante, categoría de la transacción). (Para esta primera entrega voy a trabajar esta)
+- ¿Existen diferencias significativas en el comportamiento de compra entre géneros?
+- ¿Cómo varían las transacciones fraudulentas a lo largo del tiempo? (E.g., patrones diarios, mensuales o estacionales).
+- ¿Hay correlación entre la ubicación del comerciante y la frecuencia de transacciones fraudulentas?
+- ¿Cómo afecta la población de la ciudad al volumen y tipo de transacciones?
 
-Hipótesis para probar ***A desarrollar para el proyecto final:
-Las transacciones de montos más altos tienen una mayor probabilidad de ser fraudulentas.
-Las transacciones en ciertas categorías (como cuidado personal) son más susceptibles al fraude que otras.
-Los clientes de ciudades con poblaciones menores experimentan una tasa más alta de transacciones fraudulentas debido a menores medidas de seguridad.
-Las transacciones realizadas durante ciertos períodos del día son más propensas a ser fraudulentas.
-Los datos demográficos, como la edad y el género del titular de la tarjeta, influyen en la probabilidad de fraude.
+Hipótesis para probar:
+- Las transacciones de montos más altos tienen una mayor probabilidad de ser fraudulentas.
+- Las transacciones en ciertas categorías (como cuidado personal) son más susceptibles al fraude que otras.
+- Los clientes de ciudades con poblaciones menores experimentan una tasa más alta de transacciones fraudulentas debido a menores medidas de seguridad.
+- Las transacciones realizadas durante ciertos períodos del día son más propensas a ser fraudulentas.
+- Los datos demográficos, como la edad y el género del titular de la tarjeta, influyen en la probabilidad de fraude.
 
